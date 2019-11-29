@@ -1,4 +1,4 @@
-#LeetCode Problems - JavaScript
+# LeetCode Problems - JavaScript
 
 ### All algorithms implemented in JavaScript
 There implementations are for learning purposes. If you want to contribute more efficient solutions feel free to open an issue and commit your solution.
