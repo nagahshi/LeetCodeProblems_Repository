@@ -1,5 +1,12 @@
 # LeetCode Problems - JavaScript
 
+
+[![Contributors][contributors-shield]](https://github.com/vJechsmayr/LeetCodeProblems_Repository/graphs/contributors)
+[![Forks][forks-shield]][https://github.com/vJechsmayr/LeetCodeProblems_Repository/network/members]
+[![Stargazers][stars-shield]][https://github.com/vJechsmayr/LeetCodeProblems_Repository/stargazers]
+[![Issues][issues-shield]][https://github.com/vJechsmayr/LeetCodeProblems_Repository/issues]
+[![MIT License][license-shield]][https://github.com/vJechsmayr/LeetCodeProblems_Repository/blob/master/LICENSE.txt]
+
 ### All algorithms implemented in JavaScript
 There implementations are for learning purposes. If you want to contribute more efficient solutions feel free to open an issue and commit your solution.
 
