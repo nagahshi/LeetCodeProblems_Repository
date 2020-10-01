@@ -1,13 +1,17 @@
 # LeetCode Problems - JavaScript
 
+[![Contributors](https://img.shields.io/github/contributors/vJechsmayr/LeetCodeProblems_Repository)](https://github.com/vJechsmayr/LeetCodeProblems_Repository/graphs/contributors)
+[![Issues](https://img.shields.io/github/issues/vJechsmayr/LeetCodeProblems_Repository)](https://github.com/vJechsmayr/LeetCodeProblems_Repository/issues)
+[![Open Pull Requests](https://img.shields.io/github/issues-pr-raw/vJechsmayr/LeetCodeProblems_Repository)](https://github.com/vJechsmayr/LeetCodeProblems_Repository/pulls)
+[![Last Commit](https://img.shields.io/github/last-commit/vJechsmayr/LeetCodeProblems_Repository)](https://github.com/vJechsmayr/LeetCodeProblems_Repository)
+[![Stars](https://img.shields.io/github/stars/vJechsmayr/LeetCodeProblems_Repository)](https://github.com/vJechsmayr/LeetCodeProblems_Repository/stargazers)
+[![Forks](https://img.shields.io/github/forks/vJechsmayr/LeetCodeProblems_Repository)](https://github.com/vJechsmayr/LeetCodeProblems_Repository/network/members)
+[![Watchers](https://img.shields.io/github/watchers/vJechsmayr/LeetCodeProblems_Repository)](https://github.com/vJechsmayr/LeetCodeProblems_Repository/watchers)
+[![License](https://img.shields.io/github/license/vJechsmayr/LeetCodeProblems_Repository)](https://github.com/vJechsmayr/LeetCodeProblems_Repository/blob/master/LICENSE)
 
-[![Contributors][contributors-shield]](https://github.com/vJechsmayr/LeetCodeProblems_Repository/graphs/contributors)
-[![Forks][forks-shield]][https://github.com/vJechsmayr/LeetCodeProblems_Repository/network/members]
-[![Stargazers][stars-shield]][https://github.com/vJechsmayr/LeetCodeProblems_Repository/stargazers]
-[![Issues][issues-shield]][https://github.com/vJechsmayr/LeetCodeProblems_Repository/issues]
-[![MIT License][license-shield]][https://github.com/vJechsmayr/LeetCodeProblems_Repository/blob/master/LICENSE.txt]
 
-### All algorithms implemented in JavaScript
+## About The Project
+All algorithms implemented in JavaScript.
 There implementations are for learning purposes. If you want to contribute more efficient solutions feel free to open an issue and commit your solution.
 
 
