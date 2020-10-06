@@ -1,9 +1,4 @@
-# This is a basic workflow to help you get started with Actions
-
 name: CI
-
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
 on:
   push:
     branches: [ master ]
@@ -31,8 +26,19 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          
+   
       # Runs LeetCode Sync
       - name: LeetCode Sync
+        # You may pin to the exact commit or the version.
+        # uses: joshcai/leetcode-sync@242f444ec14ccbc0c62bf3ce4aa9ba685fba64f9
         uses: joshcai/leetcode-sync@v1.2
+        with:
+          # The GitHub token
+          github-token: ${{ secrets.TOKEN }}
+          # The LeetCode CSRF token
+          leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
+          # The LeetCode session value
+          leetcode-session: ${{ secrets.LEETCODE_SESSION }}
+          # Number of seconds after an accepted solution to ignore other accepted solutions for the same problem
+          filter-duplicate-secs: 86400
 
